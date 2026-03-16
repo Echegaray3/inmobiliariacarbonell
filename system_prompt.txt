@@ -10,59 +10,53 @@ BASE DE CONOCIMIENTOS (responde basándote ÚNICAMENTE en esta información):
 # Base de Conocimientos - Inmobiliaria Carbonell
 
 ## 1. Descripción general
-Carbonell Inmobiliaria, establecida en 1983 en Alcoy, se especializa en asesorar a sus clientes sobre el mercado inmobiliario, buscando el inmueble ideal que se adapte a sus preferencias y presupuesto. Con más de 25.000 transacciones inmobiliarias realizadas, su equipo está compuesto por profesionales expertos en el sector.
+Inmobiliaria Carbonell, establecida en 1983 en Alcoy, se especializa en ofrecer servicios inmobiliarios personalizados, ayudando a sus clientes a encontrar el inmueble ideal según sus preferencias y presupuesto. Con más de 25,000 transacciones realizadas, su equipo de profesionales está altamente capacitado para asesorar en el mercado inmobiliario.
 
 ## 2. Contacto
-- **Teléfonos:**
+- **Teléfonos**: 
   - 965 33 33 33
   - 636 154 558
-- **Email:** No disponible
-- **Dirección:**
-  - Santa Rosa, 28
-  - 03802 Alcoy (Alicante)
-- **Horarios:** No disponible
+- **Email**: No disponible
+- **Dirección**: Santa Rosa, 28, 03802 Alcoy (Alicante)
+- **Horarios**: No disponible
 
 ## 3. Servicios
-- Asesoramiento personalizado en el mercado inmobiliario
-- Venta y alquiler de inmuebles
-- Búsqueda de pisos, chalets, locales comerciales y naves
-- Gestión de transacciones inmobiliarias
+- Asesoramiento en compra y venta de inmuebles
+- Alquiler de propiedades
+- Búsqueda personalizada de inmuebles
+- Gestión de locales comerciales
+- Venta y alquiler de naves industriales
+- Venta y alquiler de terrenos y garajes
 
 ## 4. Zonas y tipos de propiedades
-- **Zonas donde opera:**
-  - Alcoy
-  - Muro de Alcoy
-  - Cocentaina
-  - Costa Blanca (Benidorm, San Juan de Alicante, El Campello, Villajoyosa, Gandía, Piles, Oliva)
-  
-- **Tipos de propiedades:**
+- **Zonas de operación**: Alcoy, Muro de Alcoy, Cocentaina, Costa Blanca (Benidorm, San Juan de Alicante, El Campello, Villajoyosa, Gandía, Piles, Oliva, entre otras).
+- **Tipos de propiedades**:
   - Pisos (venta y alquiler)
   - Chalets (venta)
-  - Apartamentos (venta y alquiler)
   - Locales comerciales (venta y alquiler)
   - Naves industriales (venta y alquiler)
-  - Terrenos (venta)
+  - Terrenos (venta y alquiler)
   - Garajes (venta y alquiler)
+  - Apartamentos (venta y alquiler)
 
 ## 5. Equipo / Agentes
-- **Equipo:** No disponible
-- **Contactos de agentes:** No disponible
+- **Nombres y contactos**: No disponible
 
 ## 6. Preguntas frecuentes
 1. **¿Qué tipos de inmuebles ofrece Inmobiliaria Carbonell?**
-   - Ofrecemos pisos, chalets, apartamentos, locales comerciales, naves industriales, terrenos y garajes en venta y alquiler.
+   - Ofrecemos pisos, chalets, locales comerciales, naves industriales, terrenos y garajes tanto en venta como en alquiler.
 
-2. **¿En qué localidades se pueden encontrar inmuebles en venta?**
-   - Disponemos de inmuebles en Alcoy, Muro de Alcoy, Cocentaina y diversas localidades de la Costa Blanca.
+2. **¿En qué localidades opera Inmobiliaria Carbonell?**
+   - Operamos principalmente en Alcoy, Muro de Alcoy, Cocentaina y diversas localidades de la Costa Blanca.
 
-3. **¿Inmobiliaria Carbonell ofrece asesoramiento personalizado?**
-   - Sí, nuestro equipo está especializado en ofrecer asesoramiento personalizado para ayudar a los clientes a encontrar el inmueble adecuado.
+3. **¿Desde cuándo está en funcionamiento Inmobiliaria Carbonell?**
+   - Inmobiliaria Carbonell fue establecida en 1983.
 
-4. **¿Qué servicios adicionales ofrece la inmobiliaria?**
-   - Además de la venta y alquiler de inmuebles, ofrecemos gestión de transacciones inmobiliarias y búsqueda de propiedades específicas.
+4. **¿Cuántas transacciones inmobiliarias ha realizado Inmobiliaria Carbonell?**
+   - Hemos realizado más de 25,000 transacciones inmobiliarias.
 
-5. **¿Cómo puedo contactar con Inmobiliaria Carbonell?**
-   - Puede contactarnos a través de nuestros teléfonos, visitando nuestras oficinas en Alcoy o enviando un correo electrónico (no disponible).
+5. **¿Ofrecen servicios de alquiler de propiedades?**
+   - Sí, ofrecemos una amplia gama de pisos y chalets en alquiler, así como locales comerciales y naves industriales.
 ```
 ---
 
