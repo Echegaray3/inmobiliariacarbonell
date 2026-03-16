@@ -10,7 +10,7 @@ BASE DE CONOCIMIENTOS (responde basándote ÚNICAMENTE en esta información):
 # Base de Conocimientos - Inmobiliaria Carbonell
 
 ## 1. Descripción general
-Inmobiliaria Carbonell, establecida en 1983 en Alcoy, se especializa en ofrecer servicios inmobiliarios personalizados, ayudando a sus clientes a encontrar el inmueble ideal según sus preferencias y presupuesto. Con más de 25,000 transacciones realizadas, su equipo de profesionales está altamente capacitado para asesorar en el mercado inmobiliario.
+Inmobiliaria Carbonell, establecida en 1983 en Alcoy, se especializa en ofrecer servicios inmobiliarios de calidad, asesorando a sus clientes de manera personalizada en la búsqueda de inmuebles que se adapten a sus preferencias y presupuesto. Con más de 25,000 transacciones realizadas, su equipo está compuesto por profesionales expertos en el mercado inmobiliario.
 
 ## 2. Contacto
 - **Teléfonos**: 
@@ -21,23 +21,20 @@ Inmobiliaria Carbonell, establecida en 1983 en Alcoy, se especializa en ofrecer 
 - **Horarios**: No disponible
 
 ## 3. Servicios
-- Asesoramiento en compra y venta de inmuebles
-- Alquiler de propiedades
-- Búsqueda personalizada de inmuebles
-- Gestión de locales comerciales
-- Venta y alquiler de naves industriales
-- Venta y alquiler de terrenos y garajes
+- Asesoramiento personalizado en el mercado inmobiliario
+- Venta de inmuebles (pisos, chalets, locales comerciales, naves industriales)
+- Alquiler de inmuebles (pisos, chalets, locales comerciales)
+- Búsqueda de propiedades en diversas localidades
+- Gestión de transacciones inmobiliarias
 
 ## 4. Zonas y tipos de propiedades
 - **Zonas de operación**: Alcoy, Muro de Alcoy, Cocentaina, Costa Blanca (Benidorm, San Juan de Alicante, El Campello, Villajoyosa, Gandía, Piles, Oliva, entre otras).
 - **Tipos de propiedades**:
-  - Pisos (venta y alquiler)
-  - Chalets (venta)
-  - Locales comerciales (venta y alquiler)
-  - Naves industriales (venta y alquiler)
-  - Terrenos (venta y alquiler)
-  - Garajes (venta y alquiler)
-  - Apartamentos (venta y alquiler)
+  - Pisos en venta y alquiler
+  - Chalets en venta y alquiler
+  - Locales comerciales en venta y alquiler
+  - Naves industriales en venta y alquiler
+  - Terrenos y garajes en venta o alquiler
 
 ## 5. Equipo / Agentes
 - **Nombres y contactos**: No disponible
@@ -47,16 +44,16 @@ Inmobiliaria Carbonell, establecida en 1983 en Alcoy, se especializa en ofrecer 
    - Ofrecemos pisos, chalets, locales comerciales, naves industriales, terrenos y garajes tanto en venta como en alquiler.
 
 2. **¿En qué localidades opera Inmobiliaria Carbonell?**
-   - Operamos principalmente en Alcoy, Muro de Alcoy, Cocentaina y diversas localidades de la Costa Blanca.
+   - Operamos en Alcoy, Muro de Alcoy, Cocentaina y diversas localidades de la Costa Blanca.
 
 3. **¿Desde cuándo está en funcionamiento Inmobiliaria Carbonell?**
    - Inmobiliaria Carbonell fue establecida en 1983.
 
-4. **¿Cuántas transacciones inmobiliarias ha realizado Inmobiliaria Carbonell?**
-   - Hemos realizado más de 25,000 transacciones inmobiliarias.
+4. **¿Qué experiencia tiene Inmobiliaria Carbonell en el sector?**
+   - Hemos realizado más de 25,000 transacciones inmobiliarias desde nuestros inicios.
 
-5. **¿Ofrecen servicios de alquiler de propiedades?**
-   - Sí, ofrecemos una amplia gama de pisos y chalets en alquiler, así como locales comerciales y naves industriales.
+5. **¿Ofrecen servicios de asesoramiento personalizado?**
+   - Sí, ofrecemos asesoramiento personalizado para ayudar a nuestros clientes a encontrar el inmueble que mejor se adapte a sus necesidades y presupuesto.
 ```
 ---
 
